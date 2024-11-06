@@ -1,1 +1,1 @@
-This is the django crud operation code 
+This is the Student mangement project using django crud operation 
